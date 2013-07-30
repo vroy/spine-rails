@@ -219,4 +219,12 @@
     }
   });
 
+
+  Spine.Collection = Collection;
+
+  Spine.Singleton = Singleton;
+
+  Spine.Instance = Instance;
+
+
 }).call(this);
